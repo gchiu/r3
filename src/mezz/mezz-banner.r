@@ -69,9 +69,9 @@ sys/boot-help:
 
 Special functions:
 
-  Demo - run demo launcher (from saphirion.com)
+  ; Demo - run demo launcher (from saphirion.com)
   Help - show built-in help information
-  Upgrade - check for newer releases
+  ; Upgrade - check for newer releases
 }
 
 ;print make-banner boot-banner halt
